@@ -1,0 +1,6 @@
+thisdict={
+  "brand":"amazon",
+  "flight":"airway",
+  "year":1970
+}
+  print(thisdict)
