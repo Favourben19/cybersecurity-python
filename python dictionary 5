@@ -1,0 +1,7 @@
+data type
+thisdict{
+"brand":"prada",
+"finger":"middle",
+"accord":1980
+}
+print(type(thisdict))
