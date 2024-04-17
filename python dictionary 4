@@ -1,0 +1,7 @@
+thisdict={
+  "brand":"ford",
+  "electric":"false"
+  "year":1987
+"colours":["red"."white","green"]
+}
+print(thisdict)
