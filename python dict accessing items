@@ -11,3 +11,6 @@ print(x)
 OR a method called keys()
 x=thisdict.keys["model"]
 printg(x)
+OR a method called values()
+x= thisdict.values["brand"]
+print(x)
