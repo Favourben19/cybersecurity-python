@@ -5,3 +5,9 @@ thisdict{
 }
 x=thisdict["model"]
 print(x)
+OR  amethod called get()
+x= thisdict.get["model"]
+print(x)
+OR a method called keys()
+x=thisdict.keys["model"]
+printg(x)
