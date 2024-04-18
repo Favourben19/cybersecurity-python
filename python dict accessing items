@@ -1,0 +1,7 @@
+thisdict{
+"game":"show",
+"money":"bank",
+"year":1768
+}
+x=thisdict["model"]
+print(x)
