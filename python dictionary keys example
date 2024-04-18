@@ -1,0 +1,9 @@
+car{
+"brand":"ford",
+"model":"mustang",
+"year":1970
+}
+x= car.keys["brand"]
+print(x)#before the change
+car["colour"] ="white"
+print(x)# after the change
