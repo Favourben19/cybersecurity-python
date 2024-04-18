@@ -1,0 +1,9 @@
+car={
+"rand":"drive",
+"model:"ferarri",
+"moving day":1679
+}
+x=car.values()
+print(x)#before chnage
+car["year"]=2020
+print(x)#after change
