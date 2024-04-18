@@ -7,3 +7,6 @@ x=car.values()
 print(x)#before chnage
 car["year"]=2020
 print(x)#after change
+ADDINE A VALUE
+car["colour"]="yellow"
+print(x)#after change
