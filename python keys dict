@@ -1,0 +1,8 @@
+check if specified keys is available
+car{
+"brand":"infinity",
+"damn":"angel",
+"year":1980
+}
+if "damn" is in thisdict:
+  print("yes, 'model' is part of the keys in thisdict dictionary")
