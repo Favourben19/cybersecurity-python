@@ -1,0 +1,14 @@
+car={
+"brand":"ford",
+"model":"mustang",
+"year":1970
+}
+x= car.items()
+print(x)#before change
+car["year"]=2020
+print(x)#after change
+ADD NEW ITEM
+x= car.items()
+print(x)#before change
+car["colour"]="red"
+print(x)#after change
