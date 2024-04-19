@@ -14,3 +14,7 @@ printg(x)
 OR a method called values()
 x= thisdict.values["brand"]
 print(x)
+OR a method called items()
+x=thisdict.items["model"]
+print (x)
+
