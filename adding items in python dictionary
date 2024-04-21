@@ -1,0 +1,10 @@
+thisdict={
+"fang":"teeth",
+"mouth":"tongue",
+"gender":1940
+}
+thisdict["female"]="abigail"
+print(thisdict)
+OR USING AN UDATE DICTIONARY
+thisdict.update({"female":"abigail"})
+print(thisdict)
