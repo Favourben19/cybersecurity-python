@@ -1,0 +1,19 @@
+thisdict={
+"brand":"ford",
+"model":"mustang",
+"year":2023
+}
+for x in thisdict:
+   print(x)
+OR PRINT THE VALUES 1 BY 1
+for x in thisdict:
+    print(thisdict[x])
+OR YOU CAN ALSO USE VALUE()
+for x in thisidct.values():
+   print(x)
+OR THE KEYS METHOD
+for x in thisdict.keys():
+    print(x)
+OR USING THE ITEMS() METHOD
+for x, y in thisdict.items():
+   print (x,y)
