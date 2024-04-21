@@ -1,0 +1,16 @@
+thisdict={
+"brand":"ford",
+"model":"mustang",
+"year":1970
+}
+thisdict.pop("model")
+print(thisdict)
+WHILE POPITEM REMOVES THE LAST INSERTED ITEM 
+thisdict.popitem()
+print(thisdict)
+OR USING THE DEL KEYWORD TO REMOVE A SPECIFIC ITEM
+del thisdict["model"]
+print(thisdict)
+OR USING THE CLEAR() METHOD
+thisdict.clear()
+print(thisdict)
