@@ -1,0 +1,23 @@
+myfamily=  {
+"child1":{
+"name":"amy",
+"age":12
+  },
+child2:{
+"name":"david",
+"age":13
+  },
+"child3":{
+"name":"andre",
+"year":2008
+  }
+}
+print(myfamily)
+CREATE ONE DICTIONARY TO CONTAIN THE OTHER DICTIONARIES
+myfamily={
+"child1":child1,
+"child2":child2,
+"child3":child3
+}
+print(myfamily)
+
