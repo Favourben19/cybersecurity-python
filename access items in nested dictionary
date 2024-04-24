@@ -1,0 +1,20 @@
+myfamily={
+"child1:{
+"name":"amanda",
+"year"=2009
+  }
+"child2":{
+"name":"sarah",
+"year":2008
+  }
+"child3":{
+"name":"walter",
+"year":2003
+  }
+}
+print(myfamily["child3"]["name"]
+  LOOP THROUGH NESTED KEYS AND VALUES
+for x,obj in myfamily.item():
+    print(x)
+for y in obj:
+    print(y + ':', obj[y])
