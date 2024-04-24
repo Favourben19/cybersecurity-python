@@ -1,0 +1,10 @@
+thisdict={
+"brand":"ford",
+"model":"mustang",
+"year":1970
+} 
+mydict=thisdict.copy()
+print(mydict)
+  OR
+mydict=dict(thisdict)
+print(mydict)
